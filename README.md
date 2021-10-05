@@ -15,3 +15,7 @@ First of all, to-the-moon will have several journey path, with each of them with
   * built-in templet and prompt, with interaction with users as guidance 
   * adjusting, making comments, writing text notes within each album 
   * sharing templet and/or album (exporting the whole journey as a long pic or video for sharing)
+# Scope
+this app needs to have access to cloud where large amount of photo could stored
+
+(The app should be appropriate for this semester-base course)
